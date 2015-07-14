@@ -330,4 +330,17 @@ Contributors
     <td>@akaptur</td>
     <td>allison.kaptur@gmail.com</td>
   </tr>
+  <tr>
+    <td>Dann Toliver</td>
+    <td>Bento Box</td>
+    <td>dagoba</td>
+    <td>
+        <ul>
+            <li><a href="http://danntoliver.com">danntoliver.com</a></li>
+            <li><a href="https://twitter.com/dann">@dann</a></li>
+        </ul>
+    </td>
+    <td><a href="https://github.com/dxnn">dxnn</a></td>
+    <td>aosa@mrmuster.com</td>
+  </tr>
 </table>
